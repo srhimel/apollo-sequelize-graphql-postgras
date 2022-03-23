@@ -1,0 +1,1 @@
+"# apollo-sequelize-graphql-postgras" 
